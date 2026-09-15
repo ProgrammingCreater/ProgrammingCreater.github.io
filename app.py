@@ -61,7 +61,7 @@ PROJECTS = [
             "RC_Car/Schematic.png",
         ],
         "video_url": "",
-        "repo_url": "https://github.com/yourname/line-follower",
+        "repo_url": "https://github.com/ProgrammingCreater/RC_CAR",
         "demo_url": "",
         "status": "Completed",
         "errors_encountered": [
